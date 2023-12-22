@@ -1,0 +1,16 @@
+-- title:   DOOM Fire Demo
+-- author:  khuxkm
+-- desc:    DOOM Fire, based on the implementation by Fabien Sanglard. Uses all 31 per-frame colors.
+-- license: MIT License
+-- script:  wasm
+
+"""
+For source code, see:
+https://github.com/MineRobber9000/tic80-doomfire
+"""
+
+-- <PALETTE>
+-- 000:0707071f07072f0f07470f07571707771f078f27079f2f07af3f07c74707df4f07df5707df5707d75f07d7670fcf6f0f
+-- 001:000000cf770fcf7f0fc78717c78f17c7971fbf9f1fbfa727bfa727bfaf2fb7af2fb7b737cfcf6fdfdf9fefefc7ffffff
+-- </PALETTE>
+
