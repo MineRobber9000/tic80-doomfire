@@ -56,7 +56,7 @@ else
 endif
 endif
 
-doomfire.tic: build/cart.wasm
+doomfire.tic: build/cart.wasm doomfire.wasmp
 	@$(RM_DOOMFIRETIC)
 	tic80.exe --fs . --cmd 'load doomfire.wasmp & import binary build/cart.wasm & save doomfire.tic & exit'
 
